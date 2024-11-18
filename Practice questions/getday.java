@@ -22,9 +22,13 @@ public class getday {
         } else if (inp == 6) {
             System.out.println("Friday");
 
-        } else {
+        } 
+        else if (inp == 6) {
             System.out.println("saturday");
 
+        }else {
+            
+            System.out.println("Enter the vaild input");
         }
     }
 }
