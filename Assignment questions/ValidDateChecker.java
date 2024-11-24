@@ -36,9 +36,9 @@ public class ValidDateChecker {
 
         }
         if (isValid) {
-            System.out.println("valid");
+            System.out.println("valid date");
         } else {
-            System.out.println("Not valid");
+            System.out.println("Not valid date");
         }
 
     }
